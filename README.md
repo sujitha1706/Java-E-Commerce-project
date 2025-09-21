@@ -1,7 +1,5 @@
 # Online Shopping Cart (E-Commerce Website)
-- Youtube Video for introduction, demo and setup for this Project: https://www.youtube.com/watch?v=RgQG0_orFpM
-<!-- - YouTube video for step by step local setup of similar project: https://www.youtube.com/watch?v=mLFPodZO8Iw&t=8s -->
-<!-- Live site url: https://ellisonelectronics.herokuapp.com -->
+
 This is an E-Commerce Website build for selling of any electronics products online.
 
 ### About
@@ -74,7 +72,7 @@ Step 6: Done : Now continue to importing the project. [Don't share the above pas
 
 Step 1: Open Eclipse Enterprise Edition. [Install, if not already installed.]
 
-Step 2: Click On File > Import > Git > Projects From Git > Clone Uri > Paste The Repository Url as: ```https://github.com/shashirajraja/shopping-cart.git```> Select master Branch > Next > Next > Finish.
+Step 2: Click On File > Import > Git > Projects From Git > Clone Uri > Paste The Repository Url as: ```https://github.com/sujitha1706/Java-E-Commerce-project```> Select master Branch > Next > Next > Finish.
 
 Step 3: Go inside ```Java Resources > src > application.properties``` and update the values as below:
 - a) Update value for db.username and db.password according to your installed mysql credentials.
